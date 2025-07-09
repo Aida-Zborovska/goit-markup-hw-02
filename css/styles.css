@@ -32,7 +32,7 @@ ol {
 .top-menu:visited{
   color: inherit;
 }
-.top-menu:hover, .top-menu:focus .top-menu:active{
+.top-menu:hover, .top-menu:focus, .top-menu:active{
   color: #404BBF;
 }
 .top-address{
@@ -82,9 +82,9 @@ ol {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  colot: #2e2f42;
+  color: #2e2f42;
 }
-.servise-text{
+.service-text{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
